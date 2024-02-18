@@ -34,9 +34,7 @@ public class GameOverManager : MonoBehaviour
             Debug.Log("Time is up!"); // Lägg till denna rad för att övervaka när tiden går ut
             WinGame();
         }
-
     }
-
 
     private void ManageTimerOn()
     {
