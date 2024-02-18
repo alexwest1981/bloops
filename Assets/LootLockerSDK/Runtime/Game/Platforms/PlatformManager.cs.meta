@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 333c5e7cd88970748aedef22ff17f8ba
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Game/Platforms/PlatformManager.cs
+  uploadId: 627719

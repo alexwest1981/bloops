@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f2ffc4cda115a894ca16c48b6d844b48
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Libraries/ZeroDepJson/LICENSE
+  uploadId: 627719

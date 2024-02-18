@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 0449544f9cb81da4887c8533beb0c220
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Documentation.txt
+  uploadId: 627719

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 8e64936b93ded2b459f1073af213ead1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/6b - Multiple Progressions/6
+    - Multiple Progressions.unity
+  uploadId: 627719

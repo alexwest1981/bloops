@@ -1,0 +1,10 @@
+fileFormatVersion: 2
+guid: 5b85b08e99824824a5e9c24ffe5322c6
+timeCreated: 1673895957
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Game/Requests/ProgressionsRequest.cs
+  uploadId: 627719

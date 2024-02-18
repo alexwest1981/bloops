@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: dffdc6d84e1ec4e4f867437aa21264d5
+AssemblyDefinitionImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/lootlocker.lootlockersdk.runtime.asmdef
+  uploadId: 627719

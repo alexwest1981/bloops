@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 8063522f82f28c946b7f36c6d61016db
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/5 - WhiteLabel/WhiteLabelLogin.cs
+  uploadId: 627719

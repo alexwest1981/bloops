@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 125f3c2e48b697f4eb5d69bb6be09f0d, type: 3}
+  m_Name: Level_05
+  m_EditorClassIdentifier: 
+  levelPrefab: {fileID: 249612759079482789, guid: 7ac1b526e25f2714bba5d8847b81670f, type: 3}
+  requiredHighscore: 35000
+  coinsRequired: 20000
+  requiredLevel: 5

@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 18fda9bb0dfcb8644a40ba38c7ef2e03
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/5 - WhiteLabel/5 - WhiteLabel.unity
+  uploadId: 627719

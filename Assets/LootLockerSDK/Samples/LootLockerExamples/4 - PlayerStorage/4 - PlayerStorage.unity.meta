@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4e9825121f4023e488465b9cdc49b602
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/4 - PlayerStorage/4
+    - PlayerStorage.unity
+  uploadId: 627719

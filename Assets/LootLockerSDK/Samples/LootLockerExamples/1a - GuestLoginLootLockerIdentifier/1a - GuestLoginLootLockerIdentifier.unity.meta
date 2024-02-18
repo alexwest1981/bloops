@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4f8ce58ee0cd56a42b98870c0a0056c1
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/1a - GuestLoginLootLockerIdentifier/1a
+    - GuestLoginLootLockerIdentifier.unity
+  uploadId: 627719

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 29f22d01f061d0c4c954bc80e924cca0
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/2a - PlayerTypeLeaderboard/2a
+    - PlayerTypeLeaderboard.unity
+  uploadId: 627719

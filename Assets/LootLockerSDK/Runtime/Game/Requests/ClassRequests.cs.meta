@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3c057d550f4b46140af1190b8df3a998
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Game/Requests/ClassRequests.cs
+  uploadId: 627719

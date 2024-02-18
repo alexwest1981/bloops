@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: b2772974f3e651147beb6c1b302b2b05
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Samples/LootLockerExamples/2b - GenericTypeLeaderboardArcadeStyle/2b
+    - GenericTypeLeaderboardArcadeStyle.unity
+  uploadId: 627719

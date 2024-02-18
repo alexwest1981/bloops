@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: bfe59a825b1c54a22898781b7317125c
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Editor/LootLockerExtensionResponses.cs
+  uploadId: 627719

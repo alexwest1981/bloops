@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 2d93b04251be0487ab1f557e4ab235c9
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 13804, guid: 0000000000000000e000000000000000, type: 0}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Runtime/Editor/VisualElements/LootLocker MainWindow/LootLockerMainWindow.uxml
+  uploadId: 627719

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 87206285e13028c4ba92c2bb3c5c77df
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 233183
+  packageName: LootLocker SDK
+  packageVersion: 2.1.0
+  assetPath: Assets/LootLockerSDK/Resources/Config/LootLockerConfig.asset
+  uploadId: 627719

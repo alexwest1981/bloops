@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 63f600161255f1442825a88c40386530, type: 3}
+  m_Name: 02_Breakies
+  m_EditorClassIdentifier: 
+  name: Breakies
+  price: 1000
+  objectPrefabs:
+  - {fileID: 6744748743206149420, guid: e3dd9521258d31548afb55b34eec4238, type: 3}
+  - {fileID: 6744748743206149420, guid: b96ff69f88d223c4792679698ff3404a, type: 3}
+  - {fileID: 6744748743206149420, guid: 0c76c273d411a0f468c04504be402fa2, type: 3}
+  - {fileID: 6744748743206149420, guid: a154e22617918fd4d97fbe49854d066c, type: 3}
+  - {fileID: 6744748743206149420, guid: b7f42de0e86571d44987b80c14e7d929, type: 3}
+  - {fileID: 6744748743206149420, guid: 729d474344cd25847ad99b076c157e40, type: 3}
+  - {fileID: 6744748743206149420, guid: fb20cb76601b943409fc39270c0d40a0, type: 3}
+  - {fileID: 6744748743206149420, guid: b2f344050b845354a915624c7de68a81, type: 3}
+  - {fileID: 6744748743206149420, guid: 4bef9ab99adfed041b413927b91d9be0, type: 3}
+  - {fileID: 6744748743206149420, guid: 1c2fa307b153b7c42904c4a229339d86, type: 3}
+  - {fileID: 6744748743206149420, guid: 2e2bafbf873701d448129444d64108de, type: 3}
+  - {fileID: 6744748743206149420, guid: e0f116b36471476488726cda10483623, type: 3}
+  - {fileID: 6744748743206149420, guid: da1fd0e930fd349448447d72bc49d375, type: 3}
+  - {fileID: 6744748743206149420, guid: 1a34aae4197106249b064d5f55137a2a, type: 3}
+  - {fileID: 6744748743206149420, guid: 78b952a8373f68941972fd5b8b674a69, type: 3}
+  - {fileID: 6744748743206149420, guid: 78f2512f45b01b249b7d6a48a808574f, type: 3}
+  - {fileID: 6744748743206149420, guid: 024f2681cadf7de4d9df590a8b43ae28, type: 3}
+  - {fileID: 6744748743206149420, guid: 7d2f7f5e009dde34897142fdef6dead8, type: 3}
+  - {fileID: 6744748743206149420, guid: e7a8e6718d98aeb4eb088c0ebed869d7, type: 3}
+  spawnablePrefabs:
+  - {fileID: 6744748743206149420, guid: e3dd9521258d31548afb55b34eec4238, type: 3}
+  - {fileID: 6744748743206149420, guid: b96ff69f88d223c4792679698ff3404a, type: 3}
+  - {fileID: 6744748743206149420, guid: 0c76c273d411a0f468c04504be402fa2, type: 3}
+  - {fileID: 6744748743206149420, guid: a154e22617918fd4d97fbe49854d066c, type: 3}
+  - {fileID: 6744748743206149420, guid: b7f42de0e86571d44987b80c14e7d929, type: 3}
+  - {fileID: 6744748743206149420, guid: 729d474344cd25847ad99b076c157e40, type: 3}
