@@ -33,6 +33,16 @@ public class LevelMapManager : MonoBehaviour
         UIManager.onMapOpened += UpdateLevelButtonsInteractabillity;
         CoinManager.onCoinsUpdated += UpdateCoinText;
         unlockButton.onClick.AddListener(UnlockButtonClicked);
+
+        // Sök efter TimerManager-komponenten på GameManager-objektet
+        TimerManager timerManager = GetComponent<TimerManager>();
+
+        // Om TimerManager inte finns bifogad, bifoga den
+        if (timerManager == null)
+        {
+            // Bifoga TimerManager-komponenten till GameManager-objektet
+            gameObject.AddComponent<TimerManager>();
+        }
     }
 
     private void OnDestroy()

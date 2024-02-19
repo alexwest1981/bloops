@@ -204,14 +204,14 @@ public class AchievementManager : MonoBehaviour
     }
 
     // Spara upplåsta prestationer i PlayerPrefs
-    private static void SaveUnlockedAchievements()
+    public static void SaveUnlockedAchievements()
     {
         PlayerPrefs.SetString(UnlockedAchievementsKey, string.Join(",", instance.unlockedAchievements.ToArray()));
         PlayerPrefs.Save();
     }
 
     // Ladda upplåsta prestationer från PlayerPrefs
-    private static void LoadUnlockedAchievements()
+    public static void LoadUnlockedAchievements()
     {
         if (PlayerPrefs.HasKey(UnlockedAchievementsKey))
         {

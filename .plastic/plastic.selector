@@ -1,0 +1,4 @@
+repository "Bloop@WestCode@cloud"
+  path "/"
+    br "/main"
+    co "/main"

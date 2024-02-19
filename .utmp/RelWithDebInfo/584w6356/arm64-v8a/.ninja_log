@@ -1,5 +1,5 @@
 # ninja log v5
-2	292	7290976742711611	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb1ccdea7e0cd408
-292	508	7290976744363966	E:/UnityProjects/Bloop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/584w6356/obj/arm64-v8a/libswappywrapper.so	66cb8cdef954c6ca
-4	763	7291178254312065	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb1ccdea7e0cd408
 763	1072	7291178256901510	E:/UnityProjects/Bloop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/584w6356/obj/arm64-v8a/libswappywrapper.so	66cb8cdef954c6ca
+4	763	7291178254312065	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb1ccdea7e0cd408
+2	272	7300451263185535	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	bb1ccdea7e0cd408
+273	454	7300451264685081	E:/UnityProjects/Bloop/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/584w6356/obj/arm64-v8a/libswappywrapper.so	66cb8cdef954c6ca
